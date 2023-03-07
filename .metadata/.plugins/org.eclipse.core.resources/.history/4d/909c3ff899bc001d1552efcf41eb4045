@@ -1,0 +1,5 @@
+
+server.port=7777
+
+#logger level setting
+logging.level.com.edu.boot.Boot0307=warn
